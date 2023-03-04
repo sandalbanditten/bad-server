@@ -1,0 +1,12 @@
+p 
+{
+    color: red;
+    text-align: center; 
+    
+}
+
+.flex-container
+{
+    display: flex;
+    justify-content: center;
+}

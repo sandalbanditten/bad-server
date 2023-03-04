@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(88deg, red, orange, yellow, green, blue, indigo, violet, red);
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+h2 {
+    color: magenta;
+    text-align: right;
+}
+
+p {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: rgb(2, 240, 240);
+}

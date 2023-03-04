@@ -1,0 +1,42 @@
+body 
+{
+  background: #adbccc;
+display: flex;
+Flex-direction: column;
+}
+
+h1
+{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2
+{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a
+{
+  color: #d667d2;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p 
+{
+  color: #ffffff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#sideLink a 
+{
+  text-align: right;
+}
+
+iframe
+{
+  height: 800px;
+}

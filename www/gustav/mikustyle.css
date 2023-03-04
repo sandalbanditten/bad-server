@@ -1,0 +1,28 @@
+h1 {
+  color:rgb(223, 237, 255);
+  font-size: 300%;
+}
+
+h2 {
+  color:rgb(223, 237, 255);
+  font-size: 200%;
+}
+
+p {
+  color:rgb(188, 225, 255);
+  font-size: 150%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  color:rgb(223, 237, 255);
+  font-size: 200%;
+}
+
+body {
+  background-image: url("hatsune-miku-sadness-anime-girl-in-rain-hatsune-miku-wallpaper-preview.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 100%;
+  min-height: 100vh;
+}

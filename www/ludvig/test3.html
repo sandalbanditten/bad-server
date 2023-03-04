@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Resizer</title>
+    <script>
+      function resizeImage(event) {
+        var image = document.getElementById("image");
+        var x = event.pageX;
+        var y = event.pageY;
+        image.style.width = x + "px";
+        image.style.height = y + "px";
+      }
+      document.addEventListener("mousemove", resizeImage);
+    </script>
+  </head>
+  <body>
+    <img id="image" src="tobby.png" alt="image to resize">
+  </body>
+</html>
+

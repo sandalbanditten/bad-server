@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+  }
+
+
+p1
+    {
+       
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: bold;
+    }
+
+    
+p2
+{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+h2
+{
+        color:dodgerblue;
+        opacity: 0.2;
+}
+
+hr.new1 {
+ border-bottom: 20px solid red;
+ border-top: 20px solid  red;
+
+}
+
+p.groove {border-style: groove;}
+
